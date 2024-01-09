@@ -1,5 +1,5 @@
 # Location Simulator
-This is a Python script for simulating the location of an iOS device connected to your computer. It uses the pymobiledevice3 library and provides a graphical user interface (GUI) for setting longitude and latitude coordinates.
+This is a Python script for simulating the location of an iOS 17 device connected to your computer. It uses the pymobiledevice3 library and provides a graphical user interface (GUI) for setting longitude and latitude coordinates.
 
 ## Prerequisites
 Before using this script, ensure that you have the following prerequisites installed:
