@@ -16,6 +16,7 @@ You can install `pymobiledevice3` using pip:
 
 ## Executable
 An executable (.exe) file is available in the dist folder of this project. You can use the executable to run the Location Simulator without the need for Python and package installations. Simply run the executable to launch the application.
+NOTE: YOU HAVE TO HAVE ITUNES INSTALLED AND RUNNING IN ORDER FOR THE PROGRAM TO WORK
 
 ## Getting Started
 1- Connect your iOS device to your computer.
